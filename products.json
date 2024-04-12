@@ -1,0 +1,303 @@
+[
+    {
+      "id": "galaxyzpro",
+      "name": "Samsung Galaxy Z Pro",
+      "company": "Samsung",
+      "price": 6500000,
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#333333"
+      ],
+      "image": "https://images.pexels.com/photos/1009922/pexels-photo-1009922.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Samsung Galaxy Z Pro is a premium smartphone with a foldable display, providing a unique experience for users. With its 6.5-inch AMOLED foldable screen, it offers immersive viewing and multitasking capabilities. Powered by the latest Exynos processor with a 5nm architecture, it delivers lightning-fast performance and efficient power consumption. The device features a versatile camera setup, including a 150MP primary camera and a 50MP selfie camera, allowing users to capture stunning photos and videos. Additionally, it supports HDR10+ content, enabling users to enjoy high-quality multimedia experiences.",
+      "category": "mobile",
+      "featured": true
+    },
+    {
+      "id": "pixelpro",
+      "name": "Google Pixel Pro",
+      "company": "Google",
+      "price": 6200000,
+      "colors": [
+        "#000000",
+        "#00ff00",
+        "#ff00ff"
+      ],
+      "image": "https://images.pexels.com/photos/385590/pexels-photo-385590.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Google Pixel Pro is a flagship smartphone designed to deliver exceptional performance and photography capabilities. It features a 6.7-inch OLED display with vibrant colors and deep blacks, perfect for multimedia consumption. Powered by a custom-designed Google processor, it offers smooth performance and efficient battery life. The device boasts a state-of-the-art camera system, including a 180MP main sensor and advanced computational photography features for stunning images in any lighting condition. With its sleek design and premium build quality, the Pixel Pro is the ultimate choice for discerning smartphone users.",
+      "category": "mobile",
+      "featured": true
+    },
+    {
+      "id": "oneplusultra",
+      "name": "OnePlus Ultra",
+      "company": "OnePlus",
+      "price": 6300000,
+      "colors": [
+        "#ff0000",
+        "#00ffff",
+        "#ffff00"
+      ],
+      "image": "https://images.pexels.com/photos/1005169/pexels-photo-1005169.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The OnePlus Ultra is a premium smartphone that pushes the boundaries of innovation. Featuring a stunning 6.8-inch AMOLED display with a 120Hz refresh rate, it delivers smooth and immersive visuals for gaming and multimedia. Powered by the latest Snapdragon processor, it offers lightning-fast performance and seamless multitasking. The device boasts a cutting-edge camera system, including a 220MP primary sensor and advanced image processing algorithms for professional-quality photos and videos. With its sleek design and premium build quality, the OnePlus Ultra redefines the smartphone experience.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "xiaomiprow",
+      "name": "Xiaomi Pro W",
+      "company": "Xiaomi",
+      "price": 6000000,
+      "colors": [
+        "#ff00ff",
+        "#ffff00",
+        "#00ff00"
+      ],
+      "image": "https://images.pexels.com/photos/1557462/pexels-photo-1557462.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Xiaomi Pro W is a cutting-edge smartphone designed for power users and tech enthusiasts. It features a 6.6-inch AMOLED display with HDR support, delivering stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers blazing-fast performance and seamless multitasking. The device boasts a versatile camera system, including a 200MP main sensor and advanced AI algorithms for exceptional photos and videos in any lighting condition. With its premium design and advanced features, the Xiaomi Pro W is the ultimate smartphone for those who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "huaweimaster",
+      "name": "Huawei Master X",
+      "company": "Huawei",
+      "price": 6400000,
+      "colors": [
+        "#00ffff",
+        "#ff00ff",
+        "#ffff00"
+      ],
+      "image": "https://images.pexels.com/photos/416464/pexels-photo-416464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Huawei Master X is a flagship smartphone that combines cutting-edge technology with premium design. Featuring a stunning 6.4-inch OLED display with HDR support, it delivers immersive visuals with vibrant colors and deep blacks. Powered by the latest Kirin processor, it offers lightning-fast performance and efficient power consumption. The device boasts a versatile camera system, including a 180MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the Huawei Master X is the perfect choice for discerning smartphone users.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "sonyexperiax",
+      "name": "Sony Xperia X",
+      "company": "Sony",
+      "price": 6200000,
+      "colors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "image": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Sony Xperia X is a premium smartphone that combines sleek design with powerful performance. Featuring a 6.3-inch OLED display with Triluminos technology, it delivers stunning visuals with vibrant colors and sharp contrast. Powered by the latest Snapdragon processor, it offers smooth performance and seamless multitasking. The device boasts a versatile camera system, including a 160MP main sensor and advanced image processing algorithms for professional-quality photos and videos. With its premium design and advanced features, the Sony Xperia X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "opporealm",
+      "name": "OPPO Realm X",
+      "company": "OPPO",
+      "price": 6300000,
+      "colors": [
+        "#ffff00",
+        "#ff00ff",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/336294/pexels-photo-336294.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The OPPO Realm X is a premium smartphone that combines cutting-edge technology with elegant design. Featuring a 6.5-inch AMOLED display with a high refresh rate, it delivers smooth and immersive visuals for gaming and multimedia. Powered by the latest MediaTek processor, it offers blazing-fast performance and efficient power consumption. The device boasts a versatile camera system, including a 190MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the OPPO Realm X is the perfect choice for users who want style and performance in one package.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "realmeultra",
+      "name": "Realme Ultra Pro",
+      "company": "Realme",
+      "price": 6100000,
+      "colors": [
+        "#00ff00",
+        "#ff0000",
+        "#0000ff"
+      ],
+      "image": "https://images.pexels.com/photos/2187177/pexels-photo-2187177.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Realme Ultra Pro is a flagship smartphone designed to deliver exceptional performance and photography capabilities. It features a 6.7-inch Super AMOLED display with a high refresh rate, providing smooth and immersive visuals for gaming and multimedia. Powered by the latest Snapdragon processor, it offers lightning-fast performance and seamless multitasking. The device boasts a versatile camera system, including a 200MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the Realme Ultra Pro is the ultimate choice for users who demand the best.",
+      "category": "mobile",
+      "featured": true
+    },
+    {
+      "id": "motorolamaster",
+      "name": "Motorola Master X",
+      "company": "Motorola",
+      "price": 6400000,
+      "colors": [
+        "#ff00ff",
+        "#ffff00",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/52517/pexels-photo-52517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Motorola Master X is a premium smartphone that offers a perfect balance of performance and style. Featuring a 6.5-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 190MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the Motorola Master X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "vivovision",
+      "name": "Vivo Vision X",
+      "company": "Vivo",
+      "price": 6300000,
+      "colors": [
+        "#ffff00",
+        "#00ffff",
+        "#ff00ff"
+      ],
+      "image": "https://images.pexels.com/photos/2194323/pexels-photo-2194323.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Vivo Vision X is a premium smartphone designed to elevate your mobile experience. Featuring a 6.6-inch Super AMOLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 180MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the Vivo Vision X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "nokiaperfect",
+      "name": "Nokia Perfect X",
+      "company": "Nokia",
+      "price": 6200000,
+      "colors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "image": "https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Nokia Perfect X is a flagship smartphone that combines elegance with powerful performance. Featuring a 6.4-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 170MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the Nokia Perfect X is the ultimate choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "blackberryluxe",
+      "name": "BlackBerry Luxe Pro",
+      "company": "BlackBerry",
+      "price": 6500000,
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#333333"
+      ],
+      "image": "https://images.pexels.com/photos/416409/pexels-photo-416409.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The BlackBerry Luxe Pro is a premium smartphone that combines sleek design with powerful performance. Featuring a 6.7-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 190MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the BlackBerry Luxe Pro is the ultimate choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "lenovomasterx",
+      "name": "Lenovo Master X",
+      "company": "Lenovo",
+      "price": 6300000,
+      "colors": [
+        "#ff00ff",
+        "#ffff00",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/36438/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Lenovo Master X is a premium smartphone that offers a perfect blend of style and performance. Featuring a 6.5-inch AMOLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 180MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the Lenovo Master X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "asuszenfpro",
+      "name": "ASUS ZenF Pro",
+      "company": "ASUS",
+      "price": 6400000,
+      "colors": [
+        "#00ffff",
+        "#ffff00",
+        "#ff00ff"
+      ],
+      "image": "https://images.pexels.com/photos/271897/pexels-photo-271897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The ASUS ZenF Pro is a flagship smartphone designed for power users and multimedia enthusiasts. Featuring a 6.6-inch Super AMOLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers lightning-fast performance and seamless multitasking. The device boasts a versatile camera system, including a 200MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the ASUS ZenF Pro is the ultimate smartphone for those who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "htcluxuryx",
+      "name": "HTC Luxury X",
+      "company": "HTC",
+      "price": 6300000,
+      "colors": [
+        "#ffff00",
+        "#ff00ff",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/60659/pexels-photo-60659.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The HTC Luxury X is a premium smartphone that offers a perfect balance of style and performance. Featuring a 6.5-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 190MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the HTC Luxury X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "lgpremiumx",
+      "name": "LG Premium X",
+      "company": "LG",
+      "price": 6200000,
+      "colors": [
+        "#00ffff",
+        "#ffff00",
+        "#ff00ff"
+      ],
+      "image": "https://images.pexels.com/photos/1015685/pexels-photo-1015685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The LG Premium X is a flagship smartphone designed to deliver exceptional performance and multimedia capabilities. Featuring a 6.7-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers lightning-fast performance and seamless multitasking. The device boasts a versatile camera system, including a 200MP main sensor and advanced AI features for stunning photos and videos. With its sleek design and premium build quality, the LG Premium X is the ultimate choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "meizuluxury",
+      "name": "Meizu Luxury Pro",
+      "company": "Meizu",
+      "price": 6400000,
+      "colors": [
+        "#ff00ff",
+        "#ffff00",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/35288/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Meizu Luxury Pro is a premium smartphone that offers a perfect blend of style and performance. Featuring a 6.6-inch AMOLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 180MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the Meizu Luxury Pro is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "alcatelultimate",
+      "name": "Alcatel Ultimate X",
+      "company": "Alcatel",
+      "price": 6500000,
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#333333"
+      ],
+      "image": "https://images.pexels.com/photos/320356/pexels-photo-320356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The Alcatel Ultimate X is a premium smartphone that offers a perfect balance of style and performance. Featuring a 6.7-inch OLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers smooth performance and efficient power consumption. The device boasts a versatile camera system, including a 190MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the Alcatel Ultimate X is the perfect choice for users who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "ztezenfpro",
+      "name": "ZTE ZenF Pro",
+      "company": "ZTE",
+      "price": 6400000,
+      "colors": [
+        "#00ffff",
+        "#ffff00",
+        "#ff00ff"
+      ],
+      "image": "https://images.pexels.com/photos/196664/pexels-photo-196664.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The ZTE ZenF Pro is a flagship smartphone designed for power users and multimedia enthusiasts. Featuring a 6.6-inch Super AMOLED display with HDR support, it delivers stunning visuals with vibrant colors and deep blacks. Powered by the latest Snapdragon processor, it offers lightning-fast performance and seamless multitasking. The device boasts a versatile camera system, including a 200MP main sensor and advanced AI features for exceptional photos and videos. With its sleek design and premium build quality, the ZTE ZenF Pro is the ultimate smartphone for those who demand the best.",
+      "category": "mobile",
+      "featured": false
+    },
+    {
+      "id": "cateliteluxe",
+      "name": "CAT Elite Luxe",
+      "company": "CAT",
+      "price": 6300000,
+      "colors": [
+        "#ffff00",
+        "#ff00ff",
+        "#00ffff"
+      ],
+      "image": "https://images.pexels.com/photos/333797/pexels-photo-333797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "The CAT Elite Luxe is a premium smartphone designed for durability and performance. Featuring a rugged design and MIL-STD-810H certification, it can withstand harsh environments and extreme conditions. Despite its tough exterior, it doesn't compromise on performance, thanks to its Snapdragon processor and ample RAM. The device boasts a versatile camera system, including a 170MP main sensor and advanced imaging features for capturing clear and detailed photos. With its long-lasting battery and rugged construction, the CAT Elite Luxe is the perfect companion for outdoor adventures and demanding work environments.",
+      "category": "mobile",
+      "featured": false
+    }
+  ]
+  
